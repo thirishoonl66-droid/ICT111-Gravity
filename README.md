@@ -4,7 +4,7 @@
 Course Code: ICT111
 Course Name: Introduction to Information Technology
 Instructor: Dr. Herison Surbakti
-Project Type: 14-Labs Continuous IT Startup MVP Development
+Project Type: 14-Labs Continuous IT Startup MVP Development .
 
 ## Team Name
 TrackStack
